@@ -15,3 +15,4 @@ This README file explains how all of the scripts work and how they are connected
 9. Replaced the integers in the ‘activity’ column with their corresponding descriptive names.
 10. Checked to make sure values were not missing.
 11. Created the new tidy data frame of means calculated by ‘activity’ and ‘subject’ using the ddply of the plyr package and numcolwise(mean). 
+12. It took half a day to work out github.
